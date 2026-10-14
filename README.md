@@ -1,9 +1,9 @@
-# Hi, I'm [Muhammad Farhan Danish Bin Mohd Faizal]
+# Hi, I'm Muhammad Farhan Danish Bin Mohd Faizal
 
 [One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
 
 ## About me
-- Studying: [Computer Science], UiTM
+- Studying: Computer Science, UiTM
 - Currently learning: [topics]
 - My FYP area: [your area, or "still deciding"]
 
